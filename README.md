@@ -1,6 +1,6 @@
 # idontknow
 
-To install dependencies:
+Random web dev garbage until I come up with a project idea
 
 ```bash
 bun install
